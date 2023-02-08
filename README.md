@@ -53,91 +53,10 @@ Click The logo to Join Our Group 👇
 
  
 
-# CHIKKU-MOL WhatsApp Bot 
+[@aprilspeight](https://github.com/aprilspeight) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
+--- | --- | --- | ---
+![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=150&v=1) | ![@Brawrdon](https://avatars.githubusercontent.com/Brawrdon?s=150&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=150&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
 
-# Setup
-
-<div align="center">
-
-  ### Simple Method
-
-  
-
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Nightbot2O/baileys-qr)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MINION-KOKACHY/CHIKKU-MOL)
-
-     </div>
-
-     
-
-     ## TERMUX SET UP
-
-  
-
-## The Hard Method
-
-```js
-
-GET QR
-
-$ apt update
-
-$ apt install nodejs --fix-missing
-
-$ pkg install git
-
-$ git clone https://github.com/MINION-KOKACHY/CHIKKU-MOL
-
-$ cd CHIKKU-MOL
-
-$ chmod +x *
-
-$ npm install @adiwajshing/baileys
-
-$ npm install chalk
-
-$ node qr.js
-
-```
-
-      
-
-```js
-
-SETUP
-
-$ git clone https://github.com/MINION-KOKACHY/CHIKKU-MOL
-
-$ cd CHIKKU-MOL
-
-$ chmod +x *
-
-$ npm i
-
-$ node qr.js
-
-   // scan the qr using whatsapp web on your phone
-
-$ node bot.js
-
-```
-
-### ⚠️ Warning! 
-
-```
-
-Due to Userbot; Your WhatsApp account may be banned.
-
-This is an open source project, you are responsible for everything you do. 
-
-Absolutely, K-O-K-A-C-H-Y do not accept responsibility.
-
-By establishing the Userbot, you are deemed to have accepted these responsibilities.
-
-```
-
-Project created by KOKACHY to make it public
-
-© Reserved
-
+[@m0nica](https://github.com/m0nica) | [@Prophen](https://github.com/Prophen) | [@kjaymiller](https://github.com/kjaymiller) | [tom](#https://wittenbrock.github.io/toms-myspace-page/)
+--- | --- | --- | ---
+![@m0nica](https://avatars.githubusercontent.com/m0nica?s=150&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=150&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=150&v=1) | ![tom](https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg)
