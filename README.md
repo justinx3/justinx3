@@ -16,33 +16,20 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
-  <img border-radius: 15px src="https://telegra.ph/file/cf1fb60a282d52604fa3f.jpg" width="150" height="150"/>
+ 
 
-  
-
+ 
   <p align="center">
 
-    
-
-<a href="#"><img title="CHIKKU MOL"
-
- src="https://img.shields.io/badge/-CHIKKU%20MOL-blue?&style=for-the-badge"></a>
-
- </p>
-
-  <p align="center">
-
-<a href="https://wa.me/+35796962296"><img title="KOKACHY" src="https://img.shields.io/badge/Kokachy-MINION-KOKACHY/CHIKKU%20MOL?color=Blue&style=for-the-badge&logo=whatsapp"></a>
-
- </p>
+   
 
  
 
-## My crime partner..
+## JUSTIN HERE..
 
  
 
-![20210613_095153](https://telegra.ph/file/a29e9d0174562db93d241.jpg) 
+![20210613_095153](https://i.ibb.co/4J7Q71t/bc48e62b0217.jpg) 
 
 ## Click Below the image for contact chikkuZ
 
