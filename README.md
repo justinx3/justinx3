@@ -54,10 +54,10 @@ Click The logo to Join Our Group 👇
  
 ## PARTNERS
 [@ᴀɪʀᴇɴᴇ](https://github.com/AIRENECHIKKUZZ)
-![@ᴀɪʀᴇɴᴇ](https://avatars.githubusercontent.com/AIRENECHIKKUZZ?s=50&v=1)
+![@ᴀɪʀᴇɴᴇ](https://avatars.githubusercontent.com/AIRENECHIKKUZZ?s=150&v=1)
 [@ꜱᴀɴᴊᴀy](https://github.com/sxnju-1910)
-![@ꜱᴀɴᴊᴀy](https://avatars.githubusercontent.com/sxnju-1910?s=50&v=1)
+![@ꜱᴀɴᴊᴀy](https://avatars.githubusercontent.com/sxnju-1910?s=150&v=1)
 [@ᴩʀᴀʀᴛʜᴀɴᴀ](https://github.com/user-prarthana) 
-![@ᴩʀᴀʀᴛʜᴀɴᴀ](https://avatars.githubusercontent.com/user-prarthana?s=50&v=1)
+![@ᴩʀᴀʀᴛʜᴀɴᴀ](https://avatars.githubusercontent.com/user-prarthana?s=150&v=1)
 
 
