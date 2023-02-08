@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
  
 
-![20210613_095153](https://i.ibb.co/4J7Q71t/bc48e62b0217.jpg) 
+![20210613_095153](https://user-images.githubusercontent.com/124699631/217593316-686c2b9e-d16c-4a0e-b61c-135abeb9d20d.jpg) 
 
 ## CONTACT ME!
 
@@ -54,9 +54,10 @@ Click The logo to Join Our Group 👇
  
 ## PARTNERS
 [@ᴀɪʀᴇɴᴇ](https://github.com/AIRENECHIKKUZZ)
-![@ᴀɪʀᴇɴᴇ](https://avatars.githubusercontent.com/AIRENECHIKKUZZ?s=150&v=1)
+![@ᴀɪʀᴇɴᴇ](https://avatars.githubusercontent.com/AIRENECHIKKUZZ?s=50&v=1)
 [@ꜱᴀɴᴊᴀy](https://github.com/sxnju-1910)
-![@ꜱᴀɴᴊᴀy](https://avatars.githubusercontent.com/sxnju-1910?s=150&v=1)
+![@ꜱᴀɴᴊᴀy](https://avatars.githubusercontent.com/sxnju-1910?s=50&v=1)
 [@ᴩʀᴀʀᴛʜᴀɴᴀ](https://github.com/user-prarthana) 
-![@ᴩʀᴀʀᴛʜᴀɴᴀ](https://avatars.githubusercontent.com/user-prarthana?s=150&v=1)
+![@ᴩʀᴀʀᴛʜᴀɴᴀ](https://avatars.githubusercontent.com/user-prarthana?s=50&v=1)
+
 
