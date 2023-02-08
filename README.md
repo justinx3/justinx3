@@ -52,11 +52,8 @@ Click The logo to Join Our Group 👇
   <div align="center">
 
  
-
-[@aprilspeight](https://github.com/aprilspeight) | [@Brawrdon](https://github.com/Brawrdon) | [@dayhaysoos](https://github.com/dayhaysoos) | [@ifiokjr](https://github.com/ifiokjr)
+## PARTNERS
+[@ᴀɪʀᴇɴᴇ](https://github.com/AIRENECHIKKUZZ) | [@ꜱᴀɴᴊᴀy](https://github.com/sxnju-1910) | [@ᴩʀᴀʀᴛʜᴀɴᴀ](https://github.com/user-prarthana) 
 --- | --- | --- | ---
-![@aprilspeight](https://avatars.githubusercontent.com/aprilspeight?s=150&v=1) | ![@Brawrdon](https://avatars.githubusercontent.com/Brawrdon?s=150&v=1) | ![@dayhaysoos](https://avatars.githubusercontent.com/dayhaysoos?s=150&v=1) | ![@ifiokjr](https://avatars.githubusercontent.com/ifiokjr?s=150&v=1)
+![@ᴀɪʀᴇɴᴇ](https://avatars.githubusercontent.com/AIRENECHIKKUZZ?s=150&v=1) | ![@ꜱᴀɴᴊᴀy](https://avatars.githubusercontent.com/sxnju-1910?s=150&v=1) | ![@ᴩʀᴀʀᴛʜᴀɴᴀ](https://avatars.githubusercontent.com/user-prarthana?s=150&v=1)
 
-[@m0nica](https://github.com/m0nica) | [@Prophen](https://github.com/Prophen) | [@kjaymiller](https://github.com/kjaymiller) | [tom](#https://wittenbrock.github.io/toms-myspace-page/)
---- | --- | --- | ---
-![@m0nica](https://avatars.githubusercontent.com/m0nica?s=150&v=1) | ![@Prophen](https://avatars.githubusercontent.com/Prophen?s=150&v=1) | ![@kjaymiller](https://avatars.githubusercontent.com/kjaymiller?s=150&v=1) | ![tom](https://wittenbrock.github.io/toms-myspace-page/pictures/tom-pic.jpg)
