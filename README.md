@@ -35,10 +35,14 @@ Here are some ideas to get you started:
 ![20210613_095153](https://user-images.githubusercontent.com/124699631/217593316-686c2b9e-d16c-4a0e-b61c-135abeb9d20d.jpg) 
 
 ## CONTACT ME!
+<h5 align="center">
+ <code><a href="https://www.instagram.com/jxtn.x3/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 
-  [![justin](https://telegra.ph/file/8f091b49715d3228239de.jpg)](http://api.whatsapp.com/send?phone=917510619064&text=Hi-justin)
+
+
 
   <div align="center">
+ 
 
 
 
