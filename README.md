@@ -37,6 +37,11 @@ Here are some ideas to get you started:
 
   <div align="center">
 
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+guys!+👋;This+is+justin+x3....;Welcome+to+my+repo!&center=true&size=30">
+  </a>
+</h1>
+
  
 
 # 📢 Guide
