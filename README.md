@@ -1,19 +1,5 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**justinx3/justinx3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
 
  
@@ -37,6 +23,9 @@ Here are some ideas to get you started:
 ## CONTACT ME!
 <h5 align="center">
  <code><a href="https://www.instagram.com/jxtn.x3/" title="Instagram Profile"><img width="30" src="images/instagram.svg"></a></code>
+<br>
+<code><a href="http://api.whatsapp.com/send?phone=917510619064&text=Hi%20justin" title="whatsapp"><img width="30" src="images/wa.svg"></a></code>
+<br>
 
 
 
