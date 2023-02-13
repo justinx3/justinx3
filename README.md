@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ## CONTACT ME!
 <h5 align="center">
- <code><a href="https://www.instagram.com/jxtn.x3/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+ <code><a href="https://www.instagram.com/jxtn.x3/" title="Instagram Profile"><img width="22" src="images/instagram.svg"></a></code>
 
 
 
