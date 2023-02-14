@@ -31,6 +31,10 @@
 <li>
 <b>LANGUAGES:</b> ENGLISH,MALAYALAM,HINDHI
 </li>
+<li>
+<b>OTHERS:</b> X KUAKER,EDITOR
+</li>
+
 <br><br><br><br><br><br>
 
 
