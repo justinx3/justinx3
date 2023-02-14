@@ -38,23 +38,7 @@
 
 
 
-  <div align="center">
  
-
-
-
- 
-
-# 📢 Guide
-
-Click The logo to Join Our Group 👇
-
-    <br>
-
-<br>
-
-  [![join](https://telegra.ph/file/13ff6d16c3ac3063c3db3.jpg)](https://chat.whatsapp.com/DV20uJPlQOT4SJd8HWUz6o)
-
   <div align="center">
 
 <h2 align="center">⚡ Stats ⚡</h2>
