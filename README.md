@@ -11,6 +11,26 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/124699631/217593316-686c2b9e-d16c-4a0e-b61c-135abeb9d20d.jpg" height="250" width="250" align="right">
   </div>
+<li>
+ <b>NAME:</b> JUSTIN KB</li>
+<li>
+<b>AGE:</b> 19
+</li>
+<li>
+<b>NATIONALITY:</b> INDIAN🇮🇳
+</li>
+<li>
+<b>GENDER:</b> HE/HIS/MALE🪐
+</li>
+<li>
+<b>EDUCATION:</b> CS STUDENT NCAS 
+</li>
+<li>
+<b>HOBIES:</b> CUBING,EXPLORING
+</li>
+<li>
+<b>LANGUAGES@:</b> ENGLISH,MALAYALAM,HINDHI
+</li>
 
 
 <h4><b>contact me on 👇🏻</b></h4>
