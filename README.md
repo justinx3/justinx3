@@ -29,8 +29,10 @@
 <br>
 <br>
 <code><a href="https://pin.it/2lABB3m" title="pintrest"><img width="30" src="images/pt.png"></a></code>
+<code><a href="dev.justin112@gmail.com" title="gmail"><img width="30" src="images/gm.png"></a></code>
 <br>
 <br>
+
 
 
 
