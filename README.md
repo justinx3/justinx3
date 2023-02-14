@@ -15,9 +15,9 @@
 </h1>
 
  
-<p align="right>
+
 ![20210613_095153](https://user-images.githubusercontent.com/124699631/217593316-686c2b9e-d16c-4a0e-b61c-135abeb9d20d.jpg) 
-</p>
+
 <h4><b>contact me on 👇🏻</b></h4>
 <h5 align="center">
  <code><a href="https://www.instagram.com/jxtn.x3/" title="Instagram Profile"><img width="30" src="images/instagram.svg"></a></code>
@@ -59,7 +59,7 @@ Click The logo to Join Our Group 👇
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<p align=left>
+<p align="center">
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=justinx3&theme=react&border=61dafb&hide_border=true" alt="justinx3" />
@@ -69,7 +69,7 @@ Click The logo to Join Our Group 👇
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-</p>
+
 
 
  
