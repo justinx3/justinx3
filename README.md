@@ -1,13 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.justinx3">
 
-<div align="center">
-
- 
-
-
- 
-
- 
 
 <h1 align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+guys!+👋;This+is+justin+x3....;Welcome+to+my+repo!&center=true&size=30">
@@ -16,7 +8,9 @@
 
  
 
-![20210613_095153](https://user-images.githubusercontent.com/124699631/217593316-686c2b9e-d16c-4a0e-b61c-135abeb9d20d.jpg) 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/124699631/217593316-686c2b9e-d16c-4a0e-b61c-135abeb9d20d.jpg" align="right">
+  </div>
 
 <h4><b>contact me on 👇🏻</b></h4>
 <h5 align="center">
