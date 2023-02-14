@@ -19,7 +19,7 @@
 
 ![20210613_095153](https://user-images.githubusercontent.com/124699631/217593316-686c2b9e-d16c-4a0e-b61c-135abeb9d20d.jpg) 
 
-## CONTACT ME!
+<h4><b>contact me on 👇🏻</b></h4>
 <h5 align="center">
  <code><a href="https://www.instagram.com/jxtn.x3/" title="Instagram Profile"><img width="30" src="images/instagram.svg"></a></code>
 <code><a href="http://api.whatsapp.com/send?phone=917510619064&text=Hi%20justin" title="whatsapp"><img width="30" src="images/wa.png"></a></code>
