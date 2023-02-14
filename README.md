@@ -11,8 +11,7 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/124699631/217593316-686c2b9e-d16c-4a0e-b61c-135abeb9d20d.jpg" align="right">
   </div>
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+guys+once+again!&center=true&size=30">
-  </a
+
 
 <h4><b>contact me on 👇🏻</b></h4>
 <h5 align="center">
