@@ -38,7 +38,8 @@
 <br><br><br><br><br><br>
 
 
-<h4 align="center"><b>contact me on 👇🏻</b></h4>
+<h3 align="center"><b>contact me on 👇🏻</b></h3>
+<br><br><br>
 <h5 align="center">
  <code><a href="https://www.instagram.com/jxtn.x3/" title="Instagram Profile"><img width="60" src="images/instagram.svg"></a></code>
 <code><a href="http://api.whatsapp.com/send?phone=917510619064&text=Hi%20justin" title="whatsapp"><img width="60" src="images/wa.png"></a></code>
@@ -53,13 +54,7 @@
 <br>
 <br>
 
-
-
-
-
-
- 
-  <div align="center">
+<div align="center">
 <h3><b><u>if you like my works and want to motivate me😊</u></b></h3>
 <a href="https://www.buymeacoffee.com/devjustin1P" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
@@ -75,7 +70,7 @@
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
-
+</p>
 
 
  
