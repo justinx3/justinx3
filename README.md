@@ -22,14 +22,10 @@
 ## CONTACT ME!
 <h5 align="center">
  <code><a href="https://www.instagram.com/jxtn.x3/" title="Instagram Profile"><img width="30" src="images/instagram.svg"></a></code>
-<br>
-<br>
 <code><a href="http://api.whatsapp.com/send?phone=917510619064&text=Hi%20justin" title="whatsapp"><img width="30" src="images/wa.png"></a></code>
 <br>
 <br>
 <code><a href="http://t.me/kokachy_xD" title="telegram"><img width="30" src="images/tg.png"></a></code>
-<br>
-<br>
 <code><a href="https://www.snapchat.com/add/jxtn.x3?share_id=Vbex_QFppaw&locale=en-IN" title="snapchat"><img width="30" src="images/sc.png"></a></code>
 <br>
 <br>
