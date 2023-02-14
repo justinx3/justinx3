@@ -70,6 +70,9 @@ Click The logo to Join Our Group 👇
   </div>
   <br><br><br><br><br><br><br><br><br>
 
+<div align=center>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+
  
 ## PARTNERS
 [@ᴀɪʀᴇɴᴇ](https://github.com/AIRENECHIKKUZZ)
