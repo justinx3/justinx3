@@ -59,12 +59,3 @@
 
 
  
-## PARTNERS
-[@ᴀɪʀᴇɴᴇ](https://github.com/AIRENECHIKKUZZ)
-![@ᴀɪʀᴇɴᴇ](https://avatars.githubusercontent.com/AIRENECHIKKUZZ?s=30&v=1)
-[@ꜱᴀɴᴊᴀy](https://github.com/sxnju-1910)
-![@ꜱᴀɴᴊᴀy](https://avatars.githubusercontent.com/sxnju-1910?s=30&v=1)
-[@ᴩʀᴀʀᴛʜᴀɴᴀ](https://github.com/user-prarthana) 
-![@ᴩʀᴀʀᴛʜᴀɴᴀ](https://avatars.githubusercontent.com/user-prarthana?s=30&v=1)
-
-
