@@ -38,7 +38,7 @@
 <br><br><br><br><br><br>
 
 
-<h3 align="center"><b>contact me on 👇🏻</b></h3>
+<h1 align="center"><b>ʀᴇᴀᴄʜ ᴍᴇ 👇🏻</b></h1>
 <br><br><br>
 <h5 align="center">
  <code><a href="https://www.instagram.com/jxtn.x3/" title="Instagram Profile"><img width="60" src="images/instagram.svg"></a></code>
