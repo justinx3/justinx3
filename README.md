@@ -35,7 +35,7 @@
 <b>OTHERS:</b> X KUAKER,EDITOR
 </li>
 
-<br><br><br><br><br><br>
+<br><br><br>
 
 
 <h1 align="center"><b>ʀᴇᴀᴄʜ ᴍᴇ 👇🏻</b></h1>
