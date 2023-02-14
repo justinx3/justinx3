@@ -11,6 +11,24 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/124699631/217593316-686c2b9e-d16c-4a0e-b61c-135abeb9d20d.jpg" align="right">
   </div>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+guys+once+again!&center=true&size=30">
+  </a>
+  <br>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=its+me+justin🫣&center=true&size=30">
+  </a>
+  <br>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=i+am+a+student&center=true&size=30">
+  </a>
+  <br>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=currently+doing+degree+in&center=true&size=30">
+  </a>
+  <br>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=ncas+chalakkudy&center=true&size=30">
+  </a>
+  <br>
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=more+info+will+be+updated+in+future&center=true&size=30">
+  </a>
+  <br>
 
 <h4><b>contact me on 👇🏻</b></h4>
 <h5 align="center">
