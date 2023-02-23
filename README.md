@@ -42,7 +42,7 @@
 <br><br><br>
 <h5 align="center">
  <code><a href="https://www.instagram.com/jxtn.x3/" title="Instagram Profile"><img width="60" src="images/instagram.svg"></a></code>          
-<code><a href="http://api.whatsapp.com/send?phone=917510619064&text=Hi%20justin" title="whatsapp"><img width="60" src="images/wa.png"></a></code>
+<code><a href="http://api.whatsapp.com/send?phone=17023000033&text=Hi%20justin" title="whatsapp"><img width="60" src="images/wa.png"></a></code>
 <br>
 <br>
 <code><a href="http://t.me/kokachy_xD" title="telegram"><img width="60" src="images/tg.png"></a></code>          
