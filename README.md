@@ -9,7 +9,7 @@
  
 
 <div align="center">
-<img src="https://github.com/justinx3/justinx3/blob/main/images/Picsart_23-02-12_22-41-34-592.jpg" height="250" width="250" align="right">
+<img src="https://github.com/justinx3/justinx3/blob/main/images/IMG-20230531-WA0051.jpg" height="250" width="250" align="right">
   </div>
 <li>
  <b>NAME:</b> JUSTIN KB</li>
