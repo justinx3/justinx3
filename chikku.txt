@@ -1,3 +1,0 @@
-learning python is fun.
-python is a highh level programming language.
-python can be used to create web application.
