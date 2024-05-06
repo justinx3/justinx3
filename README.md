@@ -34,7 +34,10 @@
 <br><br><br>
 
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923466319114) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
- [![YouTube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@InnoxentTech?sub_confirmation=1)
+ [![Instagram](https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jxtn.x3)
+- [![Telegram](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kokachy_xD) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail%20me-3e164f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zubi@maher-zubair.tech)
+
  
  <code><a href="https://www.instagram.com/jxtn.x3/" title="Instagram Profile"><img width="60" src="images/instagram.svg"></a></code>
 <code><a href="http://api.whatsapp.com/send?phone=917510619064&text=Hi%20justin" title="whatsapp"><img width="60" src="images/wa.png"></a></code>
