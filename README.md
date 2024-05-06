@@ -14,15 +14,17 @@
 <li>
  <b>currently working on small projects🌱</li>
 <li>
+  <br>
 <b>focused on algorithms</b> 
 </li>
+   <br>
 <li>
   <b>i am gonna be a hokage someday😉</b>
 </li>
+<br><br>
 
-<br><br><br>
-
-<h1 align="center"><b>ʀᴇᴀᴄʜ ᴍᴇ 👇🏻</b></h1>
+<h3 align="left"><b>wondering how to reach me?</b></h3>
+<h4 align="left"><b>don't worry i got you😊</b></h4>
 <br><br><br>
 <h5 align="center">
  <code><a href="https://www.instagram.com/jxtn.x3/" title="Instagram Profile"><img width="60" src="images/instagram.svg"></a></code>
