@@ -25,8 +25,11 @@
    <br>
    <li>
   <b>as you already came this far why don't you look at some of my works</b>
-     <b>a little suport matters a lot😃</b>
 </li>
+   <br>
+   <li>
+   <b>a little suport matters a lot😃</b>
+   </li>
 <br><br>
 
 <h3 align="left"><b>wondering how to reach me?</b></h3>
