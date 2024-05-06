@@ -2,7 +2,8 @@
 
 
 <h2 align="left">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Helloooo.....!+👋;jusstin here😊....;i came here to welcome you1!&center=true&size=30">
+Helloooo.....!+👋;jusstin here😊....
+  <h3>i came here to welcome you1!&center=true&size=30"</h3>
   </a>
 </h2>
 
