@@ -40,7 +40,7 @@
  [![Instagram](https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jxtn.x3)
 - [![Telegram](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kokachy_xD) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 - [![Gmail](https://img.shields.io/badge/Gmail%20me-3e164f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.justin112@gmail.com)
-- [![Linkedin](https://img.shields.io/badge/linkedin-0088cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/kokachy_xD) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [![Linkedin](https://img.shields.io/badge/linkedin-0088cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-kb-4846402a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail%20me-3e164f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.justin112@gmail.com)
 
 
