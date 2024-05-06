@@ -33,25 +33,12 @@
 <h4 align="left"><b>don't worry i got you😊</b></h4>
 <br><br><br>
 
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923466319114) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=917510619064&text=Hi%20justin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![Instagram](https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jxtn.x3)
 - [![Telegram](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kokachy_xD) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail%20me-3e164f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zubi@maher-zubair.tech)
+[![Gmail](https://img.shields.io/badge/Gmail%20me-3e164f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.justin112@gmail.com)
 
  
- <code><a href="https://www.instagram.com/jxtn.x3/" title="Instagram Profile"><img width="60" src="images/instagram.svg"></a></code>
-<code><a href="http://api.whatsapp.com/send?phone=917510619064&text=Hi%20justin" title="whatsapp"><img width="60" src="images/wa.png"></a></code>
-<br>
-<br>
-<code><a href="http://t.me/kokachy_xD" title="telegram"><img width="60" src="images/tg.png"></a></code>          
-<code><a href="https://www.snapchat.com/add/jxtn.x3?share_id=Vbex_QFppaw&locale=en-IN" title="snapchat"><img width="60" src="images/sp.png"></a></code>
-<br>
-<br>
-<code><a href="https://pin.it/2lABB3m" title="pintrest"><img width="60" src="images/pt.png"></a></code>          
-<code><a href="dev.justin112@gmail.com" title="gmail"><img width="60" src="images/gm.png"></a></code>
-<br>
-<br>
-
 <div align="center">
 <h3><b><u>if you like my works and want to motivate me😊</u></b></h3>
 <a href="https://www.buymeacoffee.com/devjustin1P" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
