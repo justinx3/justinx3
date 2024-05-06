@@ -39,7 +39,7 @@
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://api.whatsapp.com/send?phone=917510619064&text=Hi%20justin) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  [![Instagram](https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jxtn.x3)
 - [![Telegram](https://img.shields.io/badge/telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kokachy_xD) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Gmail](https://img.shields.io/badge/Gmail%20me-3e164f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.justin112@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail%20me-3e164f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.justin112@gmail.com)
 - [![Linkedin](https://img.shields.io/badge/linkedin-0088cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://t.me/kokachy_xD) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail%20me-3e164f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.justin112@gmail.com)
 
