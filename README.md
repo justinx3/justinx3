@@ -12,9 +12,10 @@
 <img src="https://github.com/justinx3/justinx3/blob/main/images/Picsart_23-11-26_03-37-37-445.jpg" height="250" width="250" align="right">
   </div>
 <li>
- <b>currently working on small projects🌱</li>
+ <b>currently working on small projects🌱
+ </li>
+   <br>
 <li>
-  <br>
 <b>focused on algorithms</b> 
 </li>
    <br>
