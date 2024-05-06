@@ -2,8 +2,8 @@
 
 
 <h2 align="left">
-Helloooo.....! 👋;justin here😊....
-  <h3>i came here to welcome you1!</h3>
+Helloooo.....! 👋 justin here😊....
+  <h3>i came here to welcome you!</h3>
   </a>
 </h2>
 
