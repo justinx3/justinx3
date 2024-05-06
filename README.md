@@ -16,6 +16,9 @@
 <li>
 <b>focused on algorithms</b> 
 </li>
+<li>
+  <b>i am gonna be a hokage someday😉</b>
+</li>
 
 <br><br><br>
 
