@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.justinx3">
 
 
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+guys!+👋;This+is+justin+x3....;Welcome+to+my+repo!&center=true&size=30">
+<h2 align="left">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Helloooo.....!+👋;jusstin here😊....;i came here to welcome you1!&center=true&size=30">
   </a>
-</h1>
+</h2>
 
  
 
@@ -22,12 +22,20 @@
 <li>
   <b>i am gonna be a hokage someday😉</b>
 </li>
+   <br>
+   <li>
+  <b>as you already came this far why don't you look at some of my works</b>
+     <b>a little suport matters a lot😃</b>
+</li>
 <br><br>
 
 <h3 align="left"><b>wondering how to reach me?</b></h3>
 <h4 align="left"><b>don't worry i got you😊</b></h4>
 <br><br><br>
-<h5 align="center">
+<h5 align="left">
+  - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923466319114) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ [![YouTube](https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@InnoxentTech?sub_confirmation=1)
+ 
  <code><a href="https://www.instagram.com/jxtn.x3/" title="Instagram Profile"><img width="60" src="images/instagram.svg"></a></code>
 <code><a href="http://api.whatsapp.com/send?phone=917510619064&text=Hi%20justin" title="whatsapp"><img width="60" src="images/wa.png"></a></code>
 <br>
