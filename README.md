@@ -12,31 +12,12 @@
 <img src="https://github.com/justinx3/justinx3/blob/main/images/Picsart_23-11-26_03-37-37-445.jpg" height="250" width="250" align="right">
   </div>
 <li>
- <b>NAME:</b> JUSTIN KB</li>
+ <b>currently working on small projects🌱</li>
 <li>
-<b>AGE:</b> 19
-</li>
-<li>
-<b>NATIONALITY:</b> INDIAN🇮🇳
-</li>
-<li>
-<b>GENDER:</b> HE/HIS/MALE🪐
-</li>
-<li>
-<b>EDUCATION:</b> CS STUDENT NCAS 
-</li>
-<li>
-<b>HOBIES:</b> CUBING,EXPLORING
-</li>
-<li>
-<b>LANGUAGES:</b> ENGLISH,MALAYALAM,HINDHI
-</li>
-<li>
-<b>OTHERS:</b> X KUAKER,EDITOR
+<b>focused on algorithms</b> 
 </li>
 
 <br><br><br>
-
 
 <h1 align="center"><b>ʀᴇᴀᴄʜ ᴍᴇ 👇🏻</b></h1>
 <br><br><br>
