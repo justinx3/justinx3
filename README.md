@@ -9,9 +9,7 @@ Helloooo.....! 👋 justin here😊....
 
  
 
-<div align="center">
-<img src="https://github.com/justinx3/justinx3/blob/main/images/JUSTINKB.png" height="250" width="250" align="right">
-  </div>
+
 <li>
  <b>currently working on small projects🌱
  </li>
